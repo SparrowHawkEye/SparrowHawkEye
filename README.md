@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 -->
 
 
-![snake gif](https://github.com/SparrowHawkEye/SparrowHawkEye/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SparrowHawkEye/SparrowHawkEye/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/SparrowHawkEye/SparrowHawkEye/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
